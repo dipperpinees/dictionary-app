@@ -1,0 +1,26 @@
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: linear-gradient(#328BDB 0.0%, #207BCF 25.0%, #1973C9 75.0%, #0A65BF 100.0%);
+    -fx-text-fill: white;
+}
+.list-cell{
+    -fx-background-color: #74f1e7;
+    -fx-text-fill: #0866a9;
+    -fx-font-size:15.0;
+}
+.list-cell:filled:hover {
+    -fx-background-color: #0093ff;
+    -fx-text-fill: white;
+}
+.button
+{
+-fx-background-color : #DBD6EC;
+-fx-text-fill: black;
+}
+.button:hover
+{
+-fx-background-color : #afadad;
+
+}
+
+
+
